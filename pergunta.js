@@ -1,6 +1,6 @@
 criaCartao(
     'Geografia' ,
-    'Qual o país que possue o maior IDH do mundo?' ,
+    'Qual o país que possui o maior IDH do mundo?' ,
     'Suíça' ,
 
 )
